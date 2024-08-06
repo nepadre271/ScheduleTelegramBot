@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.env
+*.log
+htmlcov/
+.vscode/
+.idea/
+venv/
+logs/
